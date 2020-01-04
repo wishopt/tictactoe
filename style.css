@@ -22,7 +22,7 @@ h1 {
     display: grid;
 }
 
-#controls {
+#input {
     text-align: center;
     visibility: visible;
 }

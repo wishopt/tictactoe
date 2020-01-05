@@ -10,7 +10,13 @@ h1 {
 }
 
 .tiles {
+    margin: 0px;
+    padding: 0px;
     border: 1px solid black;
+    align-items: center;
+    font-size: 140px;
+    max-height: 166.667px;
+    min-height: 166.667px;
 }
 
 #board {
